@@ -14,7 +14,7 @@ export default function Home() {
           iFramed
         </h1>
         <span className="max-w-[750px] text-lg text-muted-foreground sm:text-xl">
-          By Clinch Employee Connection.
+          By Clinch Employee Connection 🚀
         </span>
       </div>
       {url && <iframe src={url} className="grow" allowFullScreen></iframe>}
